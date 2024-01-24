@@ -33,7 +33,7 @@
 </p> 
 
 <p align="center">
-    👩‍🚀 Ask questions or discuss ideas on <a href="https://github.com/01-ai/Yi/discussions" target="_blank"> GitHub </a>!
+    👩‍🚀 or discuss ideas on <a href="https://github.com/01-ai/Yi/discussions" target="_blank"> GitHub </a>!
 </p> 
 
 <p align="center">
