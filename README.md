@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h3 align="center">Building the Next Generation of Open-Source and Bilingual LLMs</h3>
+  <h3 align="center">Building the Nn of Open-Source and Bilingual LLMs</h3>
 </div>
 
 <p align="center">
